@@ -1,0 +1,6 @@
+{
+  "name": "Meskita",
+  "description": "A clean, modern academic task manager to keep university students organized and stress-free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
